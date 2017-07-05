@@ -1,0 +1,23 @@
+#container {
+    padding: 2em;
+}
+#list {
+        padding: 1em;
+        background: white;
+        margin-bottom: 1em;
+}
+
+button {
+    border:none;
+    margin-bottom: 20px;
+    padding: 10px;
+    background: blueviolet;
+    color: white;
+}
+
+.col {
+    width: 33%;
+    display: inline-flex;
+    padding: 40px 1 1 1;
+    color: grey;
+}
